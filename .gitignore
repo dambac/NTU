@@ -107,5 +107,8 @@ venv.bak/
 .idea
 
 # Project
+data
 outputs
 .DS_Store
+**/.ipynb_checkpoints
+output/
